@@ -1,0 +1,11 @@
+D:\CURSOS\Curso_CSharp_2_WindowsForms\bin\Debug\Curso_CSharp_2_WindowsForms.exe.config
+D:\CURSOS\Curso_CSharp_2_WindowsForms\bin\Debug\Curso_CSharp_2_WindowsForms.exe
+D:\CURSOS\Curso_CSharp_2_WindowsForms\bin\Debug\Curso_CSharp_2_WindowsForms.pdb
+D:\CURSOS\Curso_CSharp_2_WindowsForms\obj\Debug\Curso_CSharp_2_WindowsForms.csproj.AssemblyReference.cache
+D:\CURSOS\Curso_CSharp_2_WindowsForms\obj\Debug\Curso_CSharp_2_WindowsForms.csproj.SuggestedBindingRedirects.cache
+D:\CURSOS\Curso_CSharp_2_WindowsForms\obj\Debug\Curso_CSharp_2_WindowsForms.Form1.resources
+D:\CURSOS\Curso_CSharp_2_WindowsForms\obj\Debug\Curso_CSharp_2_WindowsForms.Properties.Resources.resources
+D:\CURSOS\Curso_CSharp_2_WindowsForms\obj\Debug\Curso_CSharp_2_WindowsForms.csproj.GenerateResource.cache
+D:\CURSOS\Curso_CSharp_2_WindowsForms\obj\Debug\Curso_CSharp_2_WindowsForms.csproj.CoreCompileInputs.cache
+D:\CURSOS\Curso_CSharp_2_WindowsForms\obj\Debug\Curso_CSharp_2_WindowsForms.exe
+D:\CURSOS\Curso_CSharp_2_WindowsForms\obj\Debug\Curso_CSharp_2_WindowsForms.pdb
